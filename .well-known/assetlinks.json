@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.avstudios.textureeditor",
+        "sha256_cert_fingerprints": ["B6:48:CC:51:FD:03:56:7E:63:40:56:44:1A:EB:05:24:03:02:AB:2B:F4:02:9F:68:8C:5B:1C:27:96:37:98:E2"]
+      }
+    }]
